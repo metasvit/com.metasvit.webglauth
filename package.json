@@ -1,0 +1,30 @@
+﻿{
+  "name": "com.metasvit.webglauth",
+  "version": "1.0.0",
+  "displayName": "WebGlAuth",
+  "description": "",
+  "unity": "2021.3",
+  "unityRelease": "0b1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "keywords": [
+    "auth",
+    "webgl",
+    "nethereum"
+  ],
+  "author": {
+    "name": "MK",
+    "email": "",
+    "url": ""
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "path": "Samples~/Example"
+    }
+  ]
+}
